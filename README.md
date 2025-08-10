@@ -2,7 +2,7 @@
 # Log-Lock: Smart Access Control & Auditing System Prototype🛡️
 
 <p align="center">
-  <img src="https://energia.nu/img/energia.png" width="300"/>
+  <img src="https://energia.nu/img/energia.png" width="90"/>
 </p>
 
 <p align="center">
