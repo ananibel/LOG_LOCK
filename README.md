@@ -2,7 +2,7 @@
 # Log-Lock: Smart Access Control & Auditing System Prototype🛡️
 
 <p align="center">
-  <img src="https://energia.nu/img/energia_logo_2017.png](https://energia.nu/img/energia.png" width="300"/>
+  <img src="https://energia.nu/img/energia.png" width="300"/>
 </p>
 
 <p align="center">
@@ -90,6 +90,6 @@ This method allows for rich, custom graphical interfaces that are fast and entir
 ## 👥 Authors
 
 * **Ñequesitos**
-    * *(Your Name)*
-    * *(Team Member 2 Name)*
-    * *(Team Member 3 Name)*
+    * ANABEL RUBÍ CASTRO JOHNSON
+    * AMETH VALDESPINO
+    * EDWIN ACEVEDO
