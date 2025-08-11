@@ -16,8 +16,6 @@
 
 ---
 
-![Log-Lock In Action](https://i.imgur.com/link_to_your_gif_or_image.gif)
-*(Replace the link above with a GIF or image of your project in action)*
 
 A functional prototype of a security system for critical assets and cabinets, developed for the **"Semiconductors in Industry 4.0" Hackathon**.
 
